@@ -44,7 +44,7 @@ This tool mostly help plant engineers to calculate material percentage for ERP s
 Clone the repository and run the script:
 
 ```bash
-git clone https://github.com/Javanmardi/RecycleMeltspinningMaterialsCalculator.git
+git clone https://github.com/Javanmardi/RMCalculator.git
 cd RecycleMeltspinningMaterialsCalculator
 python RMCalculator.py
 ```
